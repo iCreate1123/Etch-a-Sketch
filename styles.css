@@ -32,6 +32,19 @@ h1 {
   align-items: center;
   margin-bottom: 1rem;
 }
+#inputField {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+button {
+  padding: 0.1rem 0.8rem 0.1rem 0.8rem;
+}
+#inputButton {
+  margin-right: 1rem;
+}
+#resetButton {
+  margin-left: 1rem;
+}
 
 .childContainer {
   display: flex;
